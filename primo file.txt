@@ -1,2 +1,3 @@
 questo file è in controllo di versione!
 questa riga fa parte di una revisione
+ora facciamo una cosa seria: modifichiamo due file contemporaneamente
