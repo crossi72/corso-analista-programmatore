@@ -1,3 +1,5 @@
 questo file è in controllo di versione!
+aggiungo una riga in mezzo ad altre
 questa riga fa parte di una revisione
 ora facciamo una cosa seria: modifichiamo due file contemporaneamente
+Vediamo cosa succede se pastrocchiamo un po'
