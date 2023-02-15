@@ -1,2 +1,4 @@
 anche questo file è in controllo di versione
-ora modifico questo file, vediamo cosa succede
+ora modifico questo file
+innesco un conflitto con la versione remota
+, vediamo cosa succede
