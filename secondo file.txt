@@ -1,2 +1,3 @@
 anche questo file è in controllo di versione
+modifica fatta da un'altra postazione
 ora modifico questo file, vediamo cosa succede
